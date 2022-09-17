@@ -1,0 +1,11 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "django",
+            "database": "${workspaceFolder:django_bootcamp}/ICTOPS/db.sqlite3"
+        }
+    ]
+}
