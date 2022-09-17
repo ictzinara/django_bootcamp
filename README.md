@@ -1,2 +1,4 @@
-# django_bootcamp
-Development Bootcamp Introduction Django
+# DJANGO ICT INTERNS BOOTCAMP
+
+> DATE : 17/09/2022
+## VENUE : ZB LIFE TOWERS
