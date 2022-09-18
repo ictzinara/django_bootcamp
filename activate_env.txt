@@ -1,0 +1,1 @@
+CALL "c:/Users/nkosi/OneDrive/Desktop/django_bootcamp/pyenv/Scripts/activate.bat"
